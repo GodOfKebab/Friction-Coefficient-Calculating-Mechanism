@@ -46,5 +46,5 @@ Lorem ipsum
 Lorem ipsum
 
 
-## Lisans  
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
