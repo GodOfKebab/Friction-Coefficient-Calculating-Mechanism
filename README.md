@@ -2,12 +2,27 @@
   
 Honestly, I couldn't find this mechanism a better name. So we call it the "friction mechanism" throughout the readme.  
   
+
+<p align="center">
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/1.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/2.jpg" width=30% /> 
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/3.jpg" width=30% />
+</p>
+
+<p align="center">
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/4.gif" width=30% />
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/5.jpg" width=30% /> 
+  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/6.gif" width=30% />
+</p>
+
+
+
 ## Physics Behind This Project
   
   
 <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/Hand_Drawing.jpg" width=100% />
 
-
+The θ is the angle between the inclined surface and the horizontal surface when the object starts to slide.
 
 ## Usage  
   
@@ -31,10 +46,5 @@ Lorem ipsum
 Lorem ipsum
 
 
-## Katkıda Bulunma  
-Çekme istekleri kabul edilir. Büyük değişikler için lütfen önce bir issue açarak istediğiniz değişikliği anlatın.  
-  
-Lütfen testleri uygun şekilde güncellediğinizden emin olun.  
-  
 ## Lisans  
 [MIT](https://choosealicense.com/licenses/mit/)
