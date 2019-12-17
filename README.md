@@ -5,11 +5,11 @@ Honestly, I couldn't find this mechanism a better name. So we call it the "frict
 
 <p align="center">
   <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1.jpg" width=30% 
-  style="transform:rotate(90deg);"/>
+  style="transform:rotate(180deg);"/>
   <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2.jpg" width=30% 
-  style="transform:rotate(90deg);"/> 
+  style="transform:rotate(180deg);"/> 
   <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/3.jpg" width=30% 
-  style="transform:rotate(90deg);"/>
+  style="transform:rotate(180deg);"/>
 </p>
 
 <p align="center">
