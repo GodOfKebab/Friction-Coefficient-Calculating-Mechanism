@@ -4,15 +4,15 @@ Honestly, I couldn't find this mechanism a better name. So we call it the "frict
   
 
 <p align="center">
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/1.jpg" width=30% />
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/2.jpg" width=30% /> 
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/3.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2.jpg" width=30% /> 
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/3.jpg" width=30% />
 </p>
 
 <p align="center">
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/4.gif" width=30% />
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/5.jpg" width=30% /> 
-  <img src="https://github.com/GodOfKebab/T.S.U.N.A.M.I./blob/master/Media/6.gif" width=30% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/4.jpg" width=30% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/5.jpg" width=30% /> 
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/6.jpg" width=30% />
 </p>
 
 
