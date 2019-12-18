@@ -57,13 +57,13 @@ the equations used in graphs and the **µk**.
 
 <p align="center">
   <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-1.gif" width=30% />
-  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-2.gif" width=30% /> 
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-2.gif" width=20% /> 
   <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-3.gif" width=30% />
 </p>
 
 <p align="center">
-  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2-1.gif" width=40% />
-  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2-2.gif" width=40% /> 
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2.gif" width=40% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/3.gif" width=40% /> 
 </p>
 
 
