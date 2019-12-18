@@ -24,6 +24,10 @@ Honestly, I couldn't find this mechanism a better name. So we call it the "frict
 
 The θ is the angle between the inclined surface and the horizontal surface when the object starts to slide.
 
+## How It Works 
+
+Lorem ipsum
+
 ## Usage  
   
 You can download this repository and run the code in your system by the following commands.
