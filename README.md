@@ -46,5 +46,18 @@ Lorem ipsum
 Lorem ipsum
 
 
+## List of Parts
+
+* Raspberry Pi 3B with Pi Camera V2
+* 12 V 10 RPM Motor with a maximum torque of 30 kg-cm [link](https://www.robotistan.com/12v-42mm-10rpm-reduktorlu-dc-motor)
+* L298N Motor Driver Board
+* LM2596 Step-Down Voltage Regulator
+* 12V 3A Power Adapter
+* HC-SR04
+* Arduino Uno for analog potentiometer and button state reading
+* Total 6 kg weights to keep the mechanism in balance
+* Lots of 3D Printing Material(PLA)
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
