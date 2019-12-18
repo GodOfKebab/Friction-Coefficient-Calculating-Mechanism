@@ -44,7 +44,7 @@ amount of power required to increase the slope. Therefore most of our tests were
 program detects a slid after a sufficient increase in slope, the speed is set to 0 and the mechanism calculates and shows 
 the **µs** on the screen. 
 
-The **coefficient of kinetic friction, µk,**, on the other hand, is calculated in a rather more complicated way. Because according
+The **coefficient of kinetic friction**, on the other hand, is calculated in a rather more complicated way. Because according
 to the physics of the mechanism above, the µk also requires the **average acceleration** of the object over the course of slide 
 down a 40 cm plane. So just like the µs calculation, the mechanism is leveraged until the object starts to slide. However,
 to calculate acceleration, an **ultrasonic distance measurement sensor HC-SR04** is used. With this sensor, the position of 
@@ -53,6 +53,18 @@ with a second degree polynomial and taking its **first and second derivatives**,
 generated. Since the acceleration graph is constant, it is used as the magnitude of acceleration used in calculations. 
 Finally, with all the data collected(angle and average acceleration), program calculates and shows 
 the equations used in graphs and the **µk**.
+
+
+<p align="center">
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-1.gif" width=30% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-2.gif" width=30% /> 
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/1-3.gif" width=30% />
+</p>
+
+<p align="center">
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2-1.gif" width=40% />
+  <img src="https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Media/2-2.gif" width=40% /> 
+</p>
 
 
 ## Usage  
