@@ -49,7 +49,7 @@ to the physics of the mechanism above, the µk also requires the **average accel
 down a 40 cm plane. So just like the µs calculation, the mechanism is leveraged until the object starts to slide. However,
 to calculate acceleration, an **ultrasonic distance measurement sensor HC-SR04** is used. With this sensor, the position of 
 the sliding object is recorded with time stamps. It records until the button connected to Arduino is pressed. Then, the program graphs this data. By fitting the data 
-with a second degree polynomial and taking its **first and second derivatives**, the velocity and acceleration graphs are  
+with a second degree polynomial and taking its **first and second derivatives**, the velocity and acceleration graphs are 
 generated. Since the acceleration graph is constant, it is used as the magnitude of acceleration used in calculations. 
 Finally, with all the data collected(angle and average acceleration), program calculates and shows 
 the equations used in graphs and the **µk**.
