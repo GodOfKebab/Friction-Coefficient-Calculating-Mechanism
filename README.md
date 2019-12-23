@@ -95,4 +95,4 @@ This mode determines which coefficient of friction you want to find out.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/GodOfKebab/Friction-Coefficient-Calculating-Mechanism/blob/master/Licence.txt)
